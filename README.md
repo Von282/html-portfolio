@@ -1,2 +1,2 @@
 # html-portfolio
-Portfolio with few html webpages. 
+Portfolio with a few html webpages. 
